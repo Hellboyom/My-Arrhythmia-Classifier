@@ -18,7 +18,7 @@ Visualization: Matplotlib
 Installation
 
 Clone and setup
-bashgit clone https://github.com/sharthak06/Arrhythmia-Classification.git
+bashgit clone https://github.com/hellboyom/Arrhythmia-Classification.git
 
 cd ECGPROJECT
 
